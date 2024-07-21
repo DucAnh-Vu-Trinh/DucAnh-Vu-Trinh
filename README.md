@@ -1,10 +1,10 @@
 ## 
 <h3 align="center">
-        <samp>&gt; Hi there 👋, I am
-                <b>
-                    <a target="_blank" href="https://ducanh-vu-trinh.github.io/">Anthony Trinh</a>
-                </b>
-        </samp>
+    <samp># Hi there 👋, I am
+        <b>
+            <a target="_blank" href="https://ducanh-vu-trinh.github.io">Anthony Trinh</a>
+        </b>
+    </samp>
 </h3>
 
 <p align="center">
@@ -17,6 +17,15 @@
 </p>
 
 ## About me
+### :zap: Electrical Enginneer
+
+Passionate about:
+- :microscope: Electronics and Semiconductor
+- :battery: Power Electronics
+- :signal_strength: RF Electronics
+- :computer: Digital Signal Processing
+- :level_slider: Analog IC
+- :gear: Embedded System
 
 ## Programming language
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
